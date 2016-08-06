@@ -33,5 +33,4 @@ If the extension is valid, it'll be loaded up and active right away! If it's inv
 #How to edit
 
 Go to the extension.html file and look for the line <iframe src=""
-<br>
 Enter your desired website in the quotes
